@@ -1,0 +1,73 @@
+Progress:   0.00%(  0.0000 sec |   0.0000 sec) Importing OBJ '/home/zq/zq/git-space/pcn/data/data_preprocess/chair_obj/chair/42160/allParts.obj'...
+Progress:   0.00%  (  0.0001 sec |   0.0000 sec) Parsing OBJ file...
+Progress:   0.00%    (  0.2587 sec |   0.2586 sec) Done, loading materials and images...
+Progress:  33.33%    (  0.2654 sec |   0.2653 sec) Done, building geometries (verts:52902 faces:43040 materials: 1 smoothgroups:0) ...
+Progress:  66.67%    (  0.4128 sec |   0.4127 sec) Done.
+Progress:  66.67%Progress: 100.00%  (  0.4128 sec |   0.4128 sec) Finished importing: '/home/zq/zq/git-space/pcn/data/data_preprocess/chair_obj/chair/42160/allParts.obj'
+Progress: 100.00%Progress: 100.00%
+
+Fra:0 Mem:20.19M (0.00M, Peak 20.21M) | Time:00:00.00 | Syncing Light
+Fra:0 Mem:20.19M (0.00M, Peak 20.21M) | Time:00:00.00 | Syncing Camera
+Fra:0 Mem:20.19M (0.00M, Peak 20.21M) | Time:00:00.00 | Syncing allParts
+Fra:0 Mem:21.80M (0.00M, Peak 22.65M) | Time:00:00.00 | Rendering 1 / 64 samples
+Fra:0 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.03 | Rendering 26 / 64 samples
+Fra:0 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.04 | Rendering 51 / 64 samples
+Fra:0 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.05 | Rendering 64 / 64 samples
+Fra:0 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing
+Fra:0 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | Determining resolution
+Fra:0 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | Initializing execution
+Fra:0 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | Tile 1-1
+Fra:0 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | Tile 1-1
+Fra:0 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | De-initializing execution
+Saved: /home/zq/zq/git-space/pcn/render/output_exr_1/exr/chair/42160/0.exr
+Fra:0 Mem:17.58M (0.00M, Peak 22.65M) | Time:00:00.06 | Sce: Scene Ve:0 Fa:0 La:0
+Saved: 'buffer.png'
+ Time: 00:00.06 (Saving: 00:00.00)
+
+Fra:1 Mem:20.19M (0.00M, Peak 20.20M) | Time:00:00.00 | Syncing Light
+Fra:1 Mem:20.19M (0.00M, Peak 20.20M) | Time:00:00.00 | Syncing Camera
+Fra:1 Mem:20.19M (0.00M, Peak 20.20M) | Time:00:00.00 | Syncing allParts
+Fra:1 Mem:21.80M (0.00M, Peak 22.65M) | Time:00:00.00 | Rendering 1 / 64 samples
+Fra:1 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.02 | Rendering 26 / 64 samples
+Fra:1 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.03 | Rendering 51 / 64 samples
+Fra:1 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.04 | Rendering 64 / 64 samples
+Fra:1 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.04 | Compositing
+Fra:1 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.04 | Compositing | Determining resolution
+Fra:1 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.04 | Compositing | Initializing execution
+Fra:1 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.04 | Compositing | Tile 1-1
+Fra:1 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | Tile 1-1
+Fra:1 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | De-initializing execution
+Saved: /home/zq/zq/git-space/pcn/render/output_exr_1/exr/chair/42160/1.exr
+Fra:1 Mem:17.58M (0.00M, Peak 22.65M) | Time:00:00.05 | Sce: Scene Ve:0 Fa:0 La:0
+Saved: 'buffer.png'
+ Time: 00:00.06 (Saving: 00:00.00)
+
+Fra:2 Mem:20.18M (0.00M, Peak 20.20M) | Time:00:00.00 | Syncing Light
+Fra:2 Mem:20.19M (0.00M, Peak 20.20M) | Time:00:00.00 | Syncing Camera
+Fra:2 Mem:20.19M (0.00M, Peak 20.20M) | Time:00:00.00 | Syncing allParts
+Fra:2 Mem:21.80M (0.00M, Peak 22.65M) | Time:00:00.00 | Rendering 1 / 64 samples
+Fra:2 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.02 | Rendering 26 / 64 samples
+Fra:2 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.04 | Rendering 51 / 64 samples
+Fra:2 Mem:20.20M (0.00M, Peak 22.65M) | Time:00:00.04 | Rendering 64 / 64 samples
+Fra:2 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.04 | Compositing
+Fra:2 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.04 | Compositing | Determining resolution
+Fra:2 Mem:17.21M (0.00M, Peak 22.65M) | Time:00:00.04 | Compositing | Initializing execution
+Fra:2 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | Tile 1-1
+Fra:2 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | Tile 1-1
+Fra:2 Mem:17.65M (0.00M, Peak 22.65M) | Time:00:00.05 | Compositing | De-initializing execution
+Saved: /home/zq/zq/git-space/pcn/render/output_exr_1/exr/chair/42160/2.exr
+Fra:2 Mem:17.58M (0.00M, Peak 22.65M) | Time:00:00.05 | Sce: Scene Ve:0 Fa:0 La:0
+Saved: 'buffer.png'
+ Time: 00:00.06 (Saving: 00:00.00)
+
+Info: Deleted 1 object(s)
+Info: Deleted 1 object(s)
+
+
+t(s)
+Info: Deleted 1 object(s)
+)
+s)
+o: Deleted 1 object(s)
+ Deleted 1 object(s)
+(s)

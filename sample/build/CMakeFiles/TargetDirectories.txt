@@ -1,0 +1,3 @@
+/home/zq/zq/git-space/pcn/sample/build/CMakeFiles/edit_cache.dir
+/home/zq/zq/git-space/pcn/sample/build/CMakeFiles/rebuild_cache.dir
+/home/zq/zq/git-space/pcn/sample/build/CMakeFiles/mesh_sampling.dir
